@@ -3,4 +3,4 @@ Project Euler [1] is a website containing a series of increasingly complex compu
 With this project, I intend to get comfortable with the basic functionalities of JS.
 Since I'm a native Python programmer, relying on JavaScript to solve these computational problems should be a good way to get brain to think in this mysterious new language.
 
-[1] https://projecteuler.net/
+[1] https://projecteuler.net/archives
